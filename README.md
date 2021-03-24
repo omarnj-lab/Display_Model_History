@@ -41,25 +41,22 @@ Note that you can reach code in this file as well.
 
 THe following result have been shown up : 
 
-For the accuracy of the model : 
+**For the accuracy of the model :**
 
 ![Model Accuracy](https://github.com/omarnj-lab/Display_Model_History-/blob/main/modelaccuracy.png)
 
 
+- From the plot of accuracy we can see that the model could be trained as the trend for accuracy on both datasets is still rising for the last epochs. We can also see that the model has not yet over-learned the training dataset, showing comparable skill on both datasets.
 
 
+**For the loss of the model :**
 
-From the plot of accuracy we can see that the model could probably be trained a little more as the trend for accuracy on both datasets is still rising for the last few epochs. We can also see that the model has not yet over-learned the training dataset, showing comparable skill on both datasets.
-
-
-For the loss of the model : 
+![Model Loss](https://github.com/omarnj-lab/Display_Model_History-/blob/main/modelloss.png)
 
 
+- From the plot of loss, we can see that the model has comparable performance on both train and validation datasets (labeled test). If these parallel plots start to depart consistently, it might be a sign to stop training at an earlier epoch.
 
-
-From the plot of loss, we can see that the model has comparable performance on both train and validation datasets (labeled test). If these parallel plots start to depart consistently, it might be a sign to stop training at an earlier epoch.
-
-**Conclusion: 
+**Conclusion:**
 
 By the using of the previous implementation we can evlaute our model and see if it is done a good fitting or under/over fitting
 and based on that, we can judge the model and edit it if it is needed. 
