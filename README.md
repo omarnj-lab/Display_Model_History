@@ -40,7 +40,11 @@ Note that you can reach code in this file as well.
 
 THe following result have been shown up : 
 
-FOr the accuracy of the model : 
+For the accuracy of the model : 
+
+![Model Accuracy](https://github.com/omarnj-lab/Display_Model_History-/blob/main/modelaccuracy.png)
+
+
 
 
 
