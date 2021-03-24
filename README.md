@@ -19,6 +19,7 @@ data correctly bcause of too much noise.. here overfitting occurs. So, Overfitti
 
 These following plots show the occurance of underfitting and overfitting in terms of the loss and number of epchos for both training and testing data set: 
 
+![Under/Over fitting](https://github.com/omarnj-lab/Display_Model_History-/blob/main/overfit.jpg)
 
 --------------------------------------------------------------
 **The implementation**
